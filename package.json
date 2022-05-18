@@ -1,0 +1,19 @@
+{
+  "name": "store-details-web-scraper",
+  "version": "1.0.0",
+  "description": "A web scraper that fetches store details from India Mart.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav18115/store-details-web-scraper.git"
+  },
+  "author": "Gaurav Rao",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/gaurav18115/store-details-web-scraper/issues"
+  },
+  "homepage": "https://github.com/gaurav18115/store-details-web-scraper#readme"
+}
