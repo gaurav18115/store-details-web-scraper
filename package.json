@@ -4,6 +4,7 @@
   "description": "A web scraper that fetches store details from India Mart.",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/gaurav18115/store-details-web-scraper/issues"
   },
-  "homepage": "https://github.com/gaurav18115/store-details-web-scraper#readme"
+  "homepage": "https://github.com/gaurav18115/store-details-web-scraper#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "tailwindcss": "^3.0.24"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
